@@ -17,7 +17,7 @@ Run the server locally with `npm run` or, for ease of development, run it with `
 
 ## Demo
 
-[https://weather-proxy-23632.herokuapp.com/](https://weather-proxy-23632.herokuapp.com/).
+[https://weather-proxy.onrender.com/](https://weather-proxy.onrender.com/).
 
 Look at the Network tab on the DevTools. If you request weather information for the same city twice, you'll receive some special headers with the response:
 
